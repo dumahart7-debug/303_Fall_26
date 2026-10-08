@@ -1,3 +1,10 @@
+# Pair Exercise 3
+# Student: Annabel Ezekiel-Hart
+# Peer: Kritten Yleah
+
+
+
+
 import datetime
 import string
 
